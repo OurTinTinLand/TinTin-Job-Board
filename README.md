@@ -42,4 +42,4 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 
 ## Open Position
 
-
+- [](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/1#issue-2289428717)
