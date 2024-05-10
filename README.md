@@ -42,4 +42,4 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 
 ## Open Position
 
-- [](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/1#issue-2289428717)
+- [[远程]OpenBlock诚聘 内容创作者 薪水 $2000 - $3000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/1#issue-2289428717)
