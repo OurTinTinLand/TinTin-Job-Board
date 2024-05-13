@@ -44,3 +44,5 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 
 - [[远程]OpenBlock诚聘 内容创作者 薪水 $2000 - $3000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/1#issue-2289428717)
 - [[远程]Coinstore诚聘 测试工程师（高级） 薪水 $4000 - $6000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/2#issue-2290656749)
+- [Reddio｜Smart Contract Engineer｜Remote](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/3)
+
