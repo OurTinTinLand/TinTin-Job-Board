@@ -47,3 +47,5 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 - [Reddio｜Smart Contract Engineer｜Remote](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/3)
 - [[远程 or 上海]Mask Network诚聘 IOS工程师 薪水 $2000 - $4000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/4)
 - [[远程 or 台湾]KCEX 诚聘 安全工程师 薪水 $3000 - $4500 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/5)
+- [[远程]zkLink诚聘 智能合约工程师 薪水$4000 - $7000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/6)
+- [TonUP｜Web3 Fullstack Engineer｜Remote](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/7)
