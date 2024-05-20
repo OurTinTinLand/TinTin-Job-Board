@@ -49,3 +49,4 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 - [[远程 or 台湾]KCEX 诚聘 安全工程师 薪水 $3000 - $4500 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/5)
 - [[远程]zkLink诚聘 智能合约工程师 薪水$4000 - $7000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/6)
 - [TonUP｜Web3 Fullstack Engineer｜Remote](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/7)
+- [[远程]TonUP 诚聘前端工程师 薪水$3000 - $8000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/8)
