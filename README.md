@@ -51,3 +51,4 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 - [TonUP｜Web3 Fullstack Engineer｜Remote](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/7)
 - [[远程]TonUP 诚聘前端工程师 薪水$3000 - $8000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/8)
 - [[远程]Nubit诚聘 社区经理 薪水 $1500 - $5000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/9)
+- [Monad｜Mandarin Community Manager｜Remote](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/10)
