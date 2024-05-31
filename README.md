@@ -42,6 +42,7 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 
 ## Open Position
 
+- [[远程]MEXC诚聘 风控专员 薪水 $2000 - $3000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/14)
 - [[远程]RSS3诚聘 区块链工程师 薪水 $4000 - $6000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/13)
 - [LayerZero｜Frontend Engineer｜Vancouver, BC, Canada](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/12)
 - [[远程]OpenBlock诚聘 内容创作者 薪水 $2000 - $3000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/1#issue-2289428717)
