@@ -42,6 +42,7 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 
 ## Open Position
 
+- [[远程]InitVerse诚聘 产品经理 薪水 $1600 - $3500 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/17)
 - [[上海 or 北京]StarLand.AI诚聘 UIUX交互设计师 薪水 $2000 - $3400/ month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/16)
 - [OKX｜Senior/Principal Product Manager, DeFi Earn｜Hong Kong SAR](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/15)
 - [[远程]MEXC诚聘 风控专员 薪水 $2000 - $3000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/14)
