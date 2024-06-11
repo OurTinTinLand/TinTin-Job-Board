@@ -42,6 +42,8 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 
 ## Open Position
 
+- [DLC.Link｜Senior EVM Smart Contract Developer｜Remote](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/20)
+- [[远程]Yei Finance诚聘 市场负责人 薪水 $2000 - $5000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/19)
 - [[深圳]EMC诚聘 Solidity工程师 薪水 $3000 - $6000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/18)
 - [[远程]InitVerse诚聘 产品经理 薪水 $1600 - $3500 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/17)
 - [[上海 or 北京]StarLand.AI诚聘 UIUX交互设计师 薪水 $2000 - $3400/ month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/16)
