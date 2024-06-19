@@ -42,6 +42,11 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 
 ## Open Position
 
+- [[远程]MEXC诚聘 社区运营 薪水 $2000 - $2500 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/21)
+- [[香港]Axiomesh诚聘 产品经理 薪水 $3000 - $10000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/22)
+- [[深圳]BiFinance诚聘 Flutter工程师 薪水 $1800 - $2500 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/23)
+- [[北京]StarLand.AI诚聘 社区运营 薪水 $2000 - $3400 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/24)
+- [[上海]Mantle诚聘 项目经理 薪水 $5000 - $10000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/25)
 - [DLC.Link｜Senior EVM Smart Contract Developer｜Remote](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/20)
 - [[远程]Yei Finance诚聘 市场负责人 薪水 $2000 - $5000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/19)
 - [[深圳]EMC诚聘 Solidity工程师 薪水 $3000 - $6000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/18)
