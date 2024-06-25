@@ -42,6 +42,10 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 
 ## Open Position
 
+- [[远程]InitVerse诚聘 CMO 薪水 $4000 - $6000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/29)
+- [[远程]Ourbit诚聘 BD 薪水 $2500 - $4500 / month，15薪，币权](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/28)
+- [[远程]FameEX诚聘 品牌运营 薪水 $1800 - $3500 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/27)
+- [[远程]Chakra诚聘 测试工程师 薪水 $2000 - $3000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/26)
 - [[远程]MEXC诚聘 社区运营 薪水 $2000 - $2500 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/21)
 - [[香港]Axiomesh诚聘 产品经理 薪水 $3000 - $10000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/22)
 - [[深圳]BiFinance诚聘 Flutter工程师 薪水 $1800 - $2500 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/23)
