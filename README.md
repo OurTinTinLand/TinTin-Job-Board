@@ -42,6 +42,9 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 
 ## Open Position
 
+- [[远程]PlanX诚聘 人力经理 薪水 $3000 - $6000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/32)
+- [[远程]DeBox诚聘 开发文档实习生](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/31)
+- [[远程]EMO Capital诚聘 行业研究员 薪水 $1000 - $5000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/30)
 - [[远程]InitVerse诚聘 CMO 薪水 $4000 - $6000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/29)
 - [[远程]Ourbit诚聘 BD 薪水 $2500 - $4500 / month，15薪，币权](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/28)
 - [[远程]FameEX诚聘 品牌运营 薪水 $1800 - $3500 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/27)
