@@ -42,6 +42,10 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 
 ## Open Position
 
+- [[远程]OpenBlock诚聘 社媒运营 薪水 $2000 - $3000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/36)
+- [[上海]KYEX诚聘 #前端工程师（#Vue） 薪水 $2750 - $4130 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/35)
+- [[远程]Eden诚聘 投资者关系总监 薪水 $2000 - $3000 / month+早期代币份额](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/34)
+- [[远程]Pumpkin Global诚聘 BD 薪水 $1500 - $2200 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/33)
 - [[远程]PlanX诚聘 人力经理 薪水 $3000 - $6000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/32)
 - [[远程]DeBox诚聘 开发文档实习生](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/31)
 - [[远程]EMO Capital诚聘 行业研究员 薪水 $1000 - $5000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/30)
