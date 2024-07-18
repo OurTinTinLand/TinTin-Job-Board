@@ -42,6 +42,9 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 
 ## Open Position
 
+- [[新加坡]ApeX Protocol诚聘 运维工程师 薪水 $5000 - $10000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/39)
+- [[远程]ApeX Protocol诚聘 行业研究员 薪水 $4000 - $8000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/38)
+- [[远程]ApeX Protocol诚聘 数据分析师 薪水 $4000 - $8000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/37)
 - [[远程]OpenBlock诚聘 社媒运营 薪水 $2000 - $3000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/36)
 - [[上海]KYEX诚聘 #前端工程师（#Vue） 薪水 $2750 - $4130 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/35)
 - [[远程]Eden诚聘 投资者关系总监 薪水 $2000 - $3000 / month+早期代币份额](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/34)
