@@ -42,6 +42,10 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 
 ## Open Position
 
+- [[上海]TaskOn诚聘 Solidity工程师 ](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/43)
+- [[香港]KuCoin诚聘 研究分析师](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/42)
+- [[远程]We.Rich诚聘 运营专员 薪水 $1000 - $2000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/41)
+- [[远程]Salus诚聘 ZK产品经理 薪水 20K-40K / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/40)
 - [[新加坡]ApeX Protocol诚聘 运维工程师 薪水 $5000 - $10000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/39)
 - [[远程]ApeX Protocol诚聘 行业研究员 薪水 $4000 - $8000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/38)
 - [[远程]ApeX Protocol诚聘 数据分析师 薪水 $4000 - $8000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/37)
