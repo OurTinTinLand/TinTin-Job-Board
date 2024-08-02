@@ -42,6 +42,11 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 
 ## Open Position
 
+- [[远程]Gate.io诚聘 测试工程师 $2500 - $3400 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/45)
+- [[远程]DeBox诚聘 Web3 社交平台技术实习生](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/44)
+- [[远程]Chakra诚聘 社区运营 $3000 - $8000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/46)
+- [[远程]WEEX诚聘 Java工程师 $3300 - $5500 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/47)
+- [[远程]Teletypes诚聘 智能合约工程师 $2300 - $3800 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/48)
 - [[上海]TaskOn诚聘 Solidity工程师 ](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/43)
 - [[香港]KuCoin诚聘 研究分析师](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/42)
 - [[远程]We.Rich诚聘 运营专员 薪水 $1000 - $2000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/41)
