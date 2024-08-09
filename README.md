@@ -42,6 +42,10 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 
 ## Open Position
 
+- [[远程实习]Binance诚聘 内容实习生 薪资面议](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/49)
+- [[远程]kai诚聘 精算师 薪水 $4000 - $8000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/50)
+- [[远程]Ultiland诚聘 BD 薪水 $3000 - $5000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/51)
+- [[远程]Lbank HR 薪水 $2000 - $4000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/52)
 - [[远程]Gate.io诚聘 测试工程师 $2500 - $3400 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/45)
 - [[远程]DeBox诚聘 Web3 社交平台技术实习生](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/44)
 - [[远程]Chakra诚聘 社区运营 $3000 - $8000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/46)
