@@ -42,6 +42,10 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 
 ## Open Position
 
+- [[远程]HTX BD 薪水 $1500 - $2000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/53)
+- [[深圳]Innomin Capital 量化工程师 薪水 $5000 - $6000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/54)
+- [[远程]Matrixport 公关经理 薪水 $4000 - $5000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/55)
+- [[北京]Coinstore 产品经理薪水 $2000 - $3500 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/56)
 - [[远程实习]Binance诚聘 内容实习生 薪资面议](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/49)
 - [[远程]kai诚聘 精算师 薪水 $4000 - $8000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/50)
 - [[远程]Ultiland诚聘 BD 薪水 $3000 - $5000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/51)
