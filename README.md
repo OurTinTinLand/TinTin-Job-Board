@@ -17,6 +17,8 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 - Requirements
 - How to apply
 
+👉For more open positions, please check: https://www.notion.so/37f6da2316a845fba6ff6f62f3c50289?v=e88aaffca0ee462db5e9daa53946059f&pvs=4
+
 ---
 
 ## TinTin招聘看板
@@ -37,6 +39,8 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 - 岗位描述
 - 岗位要求
 - 如何申请
+
+👉更多Web3岗位信息，请查看：https://www.notion.so/37f6da2316a845fba6ff6f62f3c50289?v=e88aaffca0ee462db5e9daa53946059f&pvs=4
 
 ---
 
