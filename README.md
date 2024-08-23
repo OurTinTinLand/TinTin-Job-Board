@@ -49,7 +49,7 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 - [[远程]Crush AI 后端工程师 $3500 - $5500 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/57)
 - [[厦门]Tabi Golang工程师 $3000 - $5000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/58)
 - [[深圳]IOSG 投后总监 薪水面议](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/59)
-- [远程]WOW EARN 产品负责人 薪水 $2800 - $4800 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/60)
+- [[远程]WOW EARN 产品负责人 薪水 $2800 - $4800 / month]](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/60)
 - [[远程]Hemera 大数据架构师 薪水 4.5-7.5w rmb/月](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/61)
 - [[远程]HTX BD 薪水 $1500 - $2000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/53)
 - [[深圳]Innomin Capital 量化工程师 薪水 $5000 - $6000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/54)
