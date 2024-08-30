@@ -46,6 +46,9 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 
 ## Open Position
 
+- [[北京]TronDAO 运营经理 薪水 $3000 - $4500 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/64)
+- [[远程]Pionex BD 薪水 $500 - $3000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/63)
+- [[上海]OpenOs 前端工程师 薪水 $2000 - $3000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/62)
 - [[远程]WOW EARN 产品负责人 薪水 $2800 - $4800 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/60)
 - [[远程]Crush AI 后端工程师 $3500 - $5500 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/57)
 - [[厦门]Tabi Golang工程师 $3000 - $5000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/58)
