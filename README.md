@@ -46,6 +46,10 @@ If you want to publish jobs, please create an issue [here](https://github.com/Ou
 
 ## Open Position
 
+- [[深圳]DeXFun 全栈工程师 薪水 $3000 - $10000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/65)
+- [[远程]aelf 产品经理 薪水 $5000 - $6500 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/66)
+- [[深圳]PEG CTO 薪水 $8000 - $12000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/67)
+- [[北京实习]BlockBeats 实习编辑 薪水 $600 - $800 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/68)
 - [[北京]TronDAO 运营经理 薪水 $3000 - $4500 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/64)
 - [[远程]Pionex BD 薪水 $500 - $3000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/63)
 - [[上海]OpenOs 前端工程师 薪水 $2000 - $3000 / month](https://github.com/OurTinTinLand/TinTin-Job-Board/issues/62)
